@@ -30,11 +30,11 @@ Specific objectives:
 
 | ✔                             | Description                                                                                                    |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🗄 **Automated data pull**    | Uses **Yahoo Finance** via `yfinance` to download OHLCV data for chosen date windows.                          |
-| ⚙️ **Indicator pipeline**      | Functions to compute SMA, RSI, MACD (+signal), Bollinger Bands, OBV, ATR & ADX [see `Inputs_No_Sentiment.py`]. |
-| 🤖 **Model training scripts** | *Classification* & *Regression* folders for Logistic Regression, Random Forest, and a PyTorch MLP.             |
-| 📊 **Evaluation visuals**     | `/Pictures` contains loss curves, scatter plots, residual plots & correlation heatmaps.                        |
-| 🏗 **Modular layout**         | Separate folders for **One Company** vs **Multiple Companies** |
+|**Automated data pull**    | Uses **Yahoo Finance** via `yfinance` to download OHLCV data for chosen date windows.                          |
+|**Indicator pipeline**      | Functions to compute SMA, RSI, MACD (+signal), Bollinger Bands, OBV, ATR & ADX [see `Inputs_No_Sentiment.py`]. |
+|**Model training scripts** | *Classification* & *Regression* folders for Logistic Regression, Random Forest, and a PyTorch MLP.             |
+|**Evaluation visuals**     | `/Pictures` contains loss curves, scatter plots, residual plots & correlation heatmaps.                        |
+|**Modular layout**         | Separate folders for **One Company** vs **Multiple Companies** |
 
 ## Data Sources
 
@@ -98,4 +98,7 @@ ML-for-Big-Pharma-Stock/
 
 | Loss Curve             | Correlation Heatmap       | Residual Plot   |
 | ---------------------- | ------------------------- | --------------- |
-| `Loss_Over_Epochs.png` | `Correlation_Heatmap.png` | `Residuals.png` |
+| `![Loss_Over_Epochs](https://github.com/user-attachments/assets/97f7e8bc-b4cb-45b1-933f-b4cdce695804)
+` | `![Correlation_Heatmap_No_BB_SMA](https://github.com/user-attachments/assets/ef68557c-3172-4311-a58b-7330a364b619)
+` | `![Residuals](https://github.com/user-attachments/assets/d7de11e8-7969-460c-a844-ee8f5a5c6e18)
+` |
