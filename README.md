@@ -11,13 +11,8 @@
 3. [Data Sources](#data-sources)
 4. [Tech Stack](#tech-stack)
 5. [Installation](#installation)
-6. [Quick Start](#quick-start)
 7. [Project Structure](#project-structure)
 8. [Example Results](#example-results)
-9. [Roadmap](#roadmap)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
 
 ---
 
