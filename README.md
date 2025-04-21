@@ -1,6 +1,6 @@
 # ML‑for‑Big‑Pharma‑Stock
 
-> Machine Learning models used to predict future stock trends. Options on a **single company**, as well as **multiple companies**.
+> Machine Learning models used to predict future Pharma stock trends. Options on a **single company**, as well as **multiple companies**.
 
 ---
 
@@ -28,13 +28,13 @@ Specific objectives:
 
 ## Key Features
 
-| ✔                             | Description                                                                                                    |
+| Feature                       | Description                                                                                                    |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
-|**Automated data pull**    | Uses **Yahoo Finance** via `yfinance` to download OHLCV data for chosen date windows.                          |
-|**Indicator pipeline**      | Functions to compute SMA, RSI, MACD (+signal), Bollinger Bands, OBV, ATR & ADX [see `Inputs_No_Sentiment.py`]. |
-|**Model training scripts** | *Classification* & *Regression* folders for Logistic Regression, Random Forest, and a PyTorch MLP.             |
-|**Evaluation visuals**     | `/Pictures` contains loss curves, scatter plots, residual plots & correlation heatmaps.                        |
-|**Modular layout**         | Separate folders for **One Company** vs **Multiple Companies** |
+|**Automated data pull**        | Uses **Yahoo Finance** via `yfinance` to download OHLCV data for chosen date windows.                          |
+|**Indicator pipeline**         | Functions to compute SMA, RSI, MACD (+signal), Bollinger Bands, OBV, ATR & ADX [see `Inputs_No_Sentiment.py`]. |
+|**Model training scripts**     | *Classification* & *Regression* folders for Logistic Regression, Random Forest, and a PyTorch MLP.             |
+|**Evaluation visuals**         | `/Pictures` contains loss curves, scatter plots, residual plots & correlation heatmaps.                        |
+|**Modular layout**             | Separate folders for **One Company** vs **Multiple Companies**                                                 |
 
 ## Data Sources
 
