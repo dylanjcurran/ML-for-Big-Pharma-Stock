@@ -97,8 +97,4 @@ ML-for-Big-Pharma-Stock/
 ## Example Results
 
 | Loss Curve             | Correlation Heatmap       | Residual Plot   |
-| ---------------------- | ------------------------- | --------------- |
-| `![Loss_Over_Epochs](https://github.com/user-attachments/assets/97f7e8bc-b4cb-45b1-933f-b4cdce695804)
-` | `![Correlation_Heatmap_No_BB_SMA](https://github.com/user-attachments/assets/ef68557c-3172-4311-a58b-7330a364b619)
-` | `![Residuals](https://github.com/user-attachments/assets/d7de11e8-7969-460c-a844-ee8f5a5c6e18)
-` |
+| ![Loss_Over_Epochs](https://github.com/user-attachments/assets/97f7e8bc-b4cb-45b1-933f-b4cdce695804) | ![Correlation_Heatmap_No_BB_SMA](https://github.com/user-attachments/assets/ef68557c-3172-4311-a58b-7330a364b619) | ![Residuals](https://github.com/user-attachments/assets/d7de11e8-7969-460c-a844-ee8f5a5c6e18) |
