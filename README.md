@@ -77,6 +77,12 @@ $ pip install -r requirements.txt      # or pip install -e .
 
 > **Tip**: to change the ticker list or date windows, edit the `companies` list or `START_DATE` / `END_DATE` constants at the top of each script.
 
+##Execution
+
+- Use `Make_Train_and_Test` files to create training data in .csv format. Data files used in project has names along the lines of `Training.csv`.
+- Scripts like `Random_Forest.py` use the prior created .csv file to train a model with the specified title.
+- Files like `Inputs.py`, `Outputs.py`, `One_Window.py` are auxillary scripts used by the `Make_Train_and_Test` scripts. You can ignore them.
+
 ## Project Structure
 
 ```text
